@@ -1,4 +1,27 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
+
+```js
+import SoftwareDeveloper from 'teddyomondi';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Teddy Omondi';
+  title    = 'Software Developer';
+  location = 'Nairobi, Kenya';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'Dart', 'Python'];
+  databases  = ['MySQL', 'MongoDB'];
+  frameworks = [ 'Vue', 'Angular', 'Express'];
+}
+```
+----
+
+
+
+
 
 <!--
 **TrekHub/TrekHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
