@@ -19,7 +19,7 @@ class Skills extends SoftwareDeveloper {
 ```
 ----
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrekHub&count_private=true&show_icons=true)
 
 
 
