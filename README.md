@@ -4,7 +4,6 @@
 
 ```js
 import SoftwareDeveloper from 'teddyomondi';
-
 class Bio extends SoftwareDeveloper {
   name     = 'Teddy Omondi';
   title    = 'Software Developer';
@@ -12,9 +11,9 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'Dart', 'Python'];
+  languages  = ['JavaScript', 'Dart','Java';
   databases  = ['MySQL', 'MongoDB'];
-  frameworks = [ 'Vue', 'Angular', 'Express'];
+  frameworks = [ 'Vue', 'Angular', 'Express', 'Flutter'];
 }
 ```
 ----
