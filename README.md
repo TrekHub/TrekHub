@@ -11,19 +11,24 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'Dart','Java';
-  databases  = ['MySQL', 'MongoDB'];
-  frameworks = [ 'Vue', 'Angular', 'Express', 'Flutter'];
+  languages  = ['Java', 'Javascript', 'Typescript', 'Dart', 'Golang']
+  databases  = ['PostgreSQL'];
+  mobile-dev = ['Flutter'];
+  web-dev = [ 'React', 'Nextjs', 'TailwindCSS', 'Firebase', 'AWS', 'GCP'];
+  devops = [ 'Docker', 'Kubernetes', 'Jenkins'];
+
+
 }
 ```
 ----
 
-![TrekHub](https://github-readme-stats.vercel.app/api?username=TrekHub&count_private=true&show_icons=true&theme=onedark)
+
 
 
 
 <!--
 **TrekHub/TrekHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![TrekHub](https://github-readme-stats.vercel.app/api?username=TrekHub&count_private=true&show_icons=true&theme=onedark)
 
 Here are some ideas to get you started:
 
